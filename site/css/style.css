@@ -70,7 +70,8 @@ html {
 
 .member{
     background-color: #545454;
-
+    margin-left:5%;
+    margin-right:15%;
 }
 
 .member td {
@@ -78,6 +79,13 @@ html {
   background-color: #545454;
 
 
+}
 
 
+p {
+  border-bottom:1px dotted;
+  margin-left:5%;
+  margin-right:15%;
+  text-align:left;
+  line-height:130%;
 }
