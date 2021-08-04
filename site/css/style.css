@@ -18,6 +18,7 @@ html {
   height: 100%;
   background: #383838;
   font-family: "Varela Round", sans-serif;
+
 }
 
 .menu {
@@ -72,11 +73,13 @@ html {
     background-color: #545454;
     margin-left:10%;
     margin-right:10%;
+    color:#bcbcbc;
 }
 
 .member td {
     border: 1px solid #00000080;
   background-color: #545454;
+  color:#bcbcbc;
 }
 
 
@@ -86,11 +89,16 @@ margin-right: 10%;
 margin-left:10%;
   text-align:left;
   line-height:130%;
+  color:#bcbcbc;
 }
 
 
 footer {
   background-color: #474747;
+  position:absolute;
+bottom:0;
+width:100%;
+height:60px;
 }
 
 .game {
@@ -105,9 +113,10 @@ footer {
   width: 70%;
   margin-right: 10%;
   list-style: none;
+color:#bcbcbc;
 }
 .game li{
-
+color:#bcbcbc;
 
 }
 .game p {
@@ -121,13 +130,5 @@ footer {
   height: 100px;
   list-style: none;
   margin: 5px;
-
-}
-
-
-footer {
-  position:absolute;
-bottom:0;
-width:100%;
-height:60px;
+color:#a5a5a5;
 }
