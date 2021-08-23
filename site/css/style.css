@@ -29,13 +29,14 @@ html {
   align-items: center;
   max-width: 100%;
   margin: 0 auto;
-  height: 4vh;
+  height: 6vh;
   list-style: none;
+
 }
 
 .menu li {
   width: 150px;
-  height: 50px;
+height: 5vh;
   transition: background-position-x 0.9s linear;
   text-align: center;
 }
@@ -136,7 +137,7 @@ width:100%;
   align-items: center;
   max-width: 100%;
   margin: 0 auto;
-  height: 130px;
+  height: 175px;
   width: 70%;
   margin-right: 10%;
   list-style: none;
@@ -155,7 +156,7 @@ color:#c9c9c9;
   align-items: center;
   max-width: 100%;
   min-width: 160px;
-  height: 100px;
+  height: 170px;
   list-style: none;
   margin: 5px;
 color:#c9c9c9;
